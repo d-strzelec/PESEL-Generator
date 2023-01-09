@@ -1,9 +1,6 @@
 package PESEL::Generator;
 
 #-----------------------------------------------------------------------
-use vars qw( $VERSION );
-$VERSION = 1.4;
-#-----------------------------------------------------------------------
 use warnings;
 use strict;
 use base "Exporter::Tiny";
