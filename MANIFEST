@@ -1,8 +1,0 @@
-t/00_load.t
-t/02_obj.t
-t/01_sub.t
-Changes
-README
-MANIFEST
-Makefile.PL
-lib/PESEL/Generator.pm
